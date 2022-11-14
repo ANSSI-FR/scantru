@@ -22,7 +22,7 @@ These datasets are provided to ensure the reproducibility of the results claimed
 
 	There is an extra file named *data_LA.h5*. It contains the few executions of key 1. It contains a single dataset **traces** with shape (15, 507, 950). These traces are used to perform the leakage assessments described in the article. Since the leakage assessment is not supervised, the key is not given.
 	
-- Scripts in folder SCRIPTS
+- Scripts:
 
 	There are two scripts provided in jupyter notebook format.
 	
