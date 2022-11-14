@@ -8,7 +8,7 @@ These datasets are provided to ensure the reproducibility of the results claimed
 
 - Traces: 
 
-	They can be found at the following address: .
+	They can be found at the following address: https://www.data.gouv.fr/fr/datasets/scantru/
 
 	There are 200 compressed files named *data_1.zip*, *data_2.zip*, ..., *data_200.zip*, each of them weighting around 19.8MB.
 
