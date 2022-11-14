@@ -4,7 +4,7 @@ This repository provides the EM traces used in the following article:
 
 **Security Assessment of NTRU Against Non-Profiled SCA**, Luk Bettale, Julien Eynard, Simon Montoya, Guénaël Renault, Rémi Strullu, *CARDIS 2022, 7-9 November, 2022, Birmingham, UK*.
 
-These datasets are provided to ensure the reproducibility of the results claimed in the above mentioned article as well as to encourage the community to use them to experiment with any kind of SCA technique of their choice.
+These datasets are provided to ensure the reproducibility of the results claimed in the above mentioned article as well as to encourage the community to use them to experiment with any kind of SCA technique.
 
 - Traces: 
 
